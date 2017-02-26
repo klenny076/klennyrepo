@@ -1,0 +1,8 @@
+Origin: Klenny repo
+Label: Klenny,s repo
+Suite: stable
+Version: 1.1
+Codename: Demy076/Klenny076
+Architectures: iphoneos-arm
+Components: main
+Description: Klenny,s repo
